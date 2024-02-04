@@ -3,8 +3,6 @@
 - 미션은 요구 사항, 과제 진행 요구 사항으로 구성되어있다.
 - 두 요구 사항을 만족해야한다.
 
-<br />
-
 ## 🧑‍💻 요구 사항
 
 - [디자인 시안](https://www.figma.com/file/e7alZzYQj5C4nXZbDHpyzX/%EB%A9%8B%EC%82%AC-%ED%94%84%EC%97%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4?type=design&node-id=0-1&mode=design&t=hBh1138nTxhgEttW-0)을 바탕으로 자기소개 페이지를 완성한다.
@@ -22,8 +20,6 @@
 - `div`, `span`태그의 사용을 최대한 지양한다.
 - 문서의 폰트는 [**Google Fonts**](https://fonts.google.com/)를 통해 **Roboto**를 임베드하여 사용한다.
 - [**Github Pages**](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)를 통해 웹 페이지를 배포한다.
-
-<br />
 
 ## 🚀 과제 진행 요구 사항
 
