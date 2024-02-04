@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 요구 사항
 
-- [디자인 시안](https://www.figma.com/file/e7alZzYQj5C4nXZbDHpyzX/%EB%A9%8B%EC%82%AC-%ED%94%84%EC%97%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4?type=design&node-id=0-1&mode=design&t=hBh1138nTxhgEttW-0)을 바탕으로 자기소개 페이지를 완성한다.
+- [디자인 시안](https://www.figma.com/file/VmunWo93cJUfucgOXcpJCW/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%98%88%EC%8B%9C?type=design&node-id=0-1&mode=design&t=B8DaEqkfrhGlO21c-0)을 바탕으로 자기소개 페이지를 완성한다.
 - **Amout me** 페이지는 `index.html`에 작성한다. 그 외의 페이지는 `pages` 폴더에 관리한다.
 - 카테고리를 클릭하면 해당 페이지로 이동하도록 구현한다.
 - SNS 이미지를 클릭하면 본인의 SNS로 이동하도록 구현한다.
