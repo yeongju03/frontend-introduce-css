@@ -21,6 +21,7 @@
 - [BEM 방법론](https://getbem.com/introduction/)을 활용하여 클래스 명을 작성한다.
 - `div`, `span`태그의 사용을 최대한 지양한다.
 - 문서의 폰트는 [**Google Fonts**](https://fonts.google.com/)를 통해 **Roboto**를 임베드하여 사용한다.
+- README.md 작성법은 [다음](https://commonmark.org/help/)을 참고한다.
 - [**Github Pages**](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)를 통해 웹 페이지를 배포한다.
 
 ## 🚀 과제 진행 요구 사항
